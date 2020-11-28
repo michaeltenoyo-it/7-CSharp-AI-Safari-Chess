@@ -1,0 +1,106 @@
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\bin\Debug\SafariChess.exe.config
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\bin\Debug\SafariChess.exe
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\bin\Debug\SafariChess.pdb
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.Form1.resources
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.exe
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\SafariChess\SafariChess\obj\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\bin\Debug\SafariChess.exe.config
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\bin\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\bin\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.2 #without paint\SafariChess\obj\Debug\SafariChess.pdb
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\bin\Debug\SafariChess.exe.config
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\bin\Debug\SafariChess.exe
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\bin\Debug\SafariChess.pdb
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.Form1.resources
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.exe
+C:\Users\hendry\Downloads\SafariChess - update 1.2\SafariChess\obj\Debug\SafariChess.pdb
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\bin\Debug\SafariChess.exe.config
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\bin\Debug\SafariChess.exe
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\bin\Debug\SafariChess.pdb
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.csprojAssemblyReference.cache
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.Form1.resources
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.cache
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.exe
+C:\Users\Kevin\Downloads\SafariChess\SafariChess\obj\Debug\SafariChess.pdb
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\bin\Debug\SafariChess.exe.config
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\bin\Debug\SafariChess.exe
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\bin\Debug\SafariChess.pdb
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.csprojAssemblyReference.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.exe
+D:\KULIAH\SEM 5\Artificial Intelligence\Proyek\SafariChess\SafariChess\obj\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe.config
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.pdb
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe.config
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.pdb
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Form1.resources
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.exe
+C:\Users\hendry\Downloads\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.pdb
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe.config
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.exe
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.pdb
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.exe
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\bin\Debug\SafariChess.pdb
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\Data\Stts\02-AIz\2019\SafariChess - update 1.3\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe.config
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.pdb
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csprojAssemblyReference.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.exe
+D:\KULIAH\SEM 5\Artificial Intelligence\Safari-Chess\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.pdb
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe.config
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.pdb
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Form1.resources
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.exe
+C:\Users\Kevin\Documents\Kuliah\Artificial Intelligence\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe.config
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\bin\Debug\SafariChess.pdb
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Form1.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.Properties.Resources.resources
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.exe
+D:\Kuliah\Semester 5\04 - Kecerdasan Buatan\proyek-ai\Code\SafariChess\obj\Debug\SafariChess.pdb
